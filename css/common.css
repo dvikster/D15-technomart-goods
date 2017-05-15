@@ -664,6 +664,9 @@ nav li a:active, nav li a:focus, nav li a.active {
 .goods .product div.col-3:nth-child(3n){
     margin-right: 0;
 }
+.sidebar h3{
+    padding: 30px 0 10px;
+}
 .product .img_wrap {
     height: 164px;
     line-height: 164px;
